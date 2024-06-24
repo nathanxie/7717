@@ -1,4 +1,4 @@
-# Blog Title :link: https://nathanxie.github.io/7717.github.io 
+# Blog Title :link: https://nathanxie.github.io/7717 
 ### :page_facing_up: [1](https://nathanxie.github.io/7717.github.io/tag.html) 
 ### :speech_balloon: 0 
 ### :hibiscus: 6 
